@@ -15,6 +15,7 @@ You need to install Python software
 
 ```
 Python 3
+Jupyter Notebook
 ```
 
 ## Author
