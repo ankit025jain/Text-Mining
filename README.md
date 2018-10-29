@@ -19,7 +19,7 @@ Python 3
 
 ## Author
 
-* **Billie Thompson** - *Initial work* - [Ankit Jain](https://github.com/ankit025jain)
+* **Ankit Jain** - *Initial work* - [Ankit Jain](https://github.com/ankit025jain)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
